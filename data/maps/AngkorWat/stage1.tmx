@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="26" height="21" tilewidth="80" tileheight="80" infinite="0" nextlayerid="12" nextobjectid="1">
+ <tileset firstgid="1" source="0.f-3-Image-Sec-0-52.tsx"/>
+ <tileset firstgid="2" source="tilesset3.tsx"/>
+ <tileset firstgid="34" source="IMG_20220501_203734 (228).tsx"/>
+ <tileset firstgid="35" source="cm.f-0-Image-Sec-0-261.tsx"/>
+ <tileset firstgid="36" source="cm.f-2-Image-Sec-0-280.tsx"/>
+ <tileset firstgid="37" source="0.f-1-Image-Sec-0-9.tsx"/>
+ <tileset firstgid="38" source="0.f-0-Image-Sec-0-1.tsx"/>
+ <tileset firstgid="39" source="cm.f-6-Image-Sec-0-303.tsx"/>
+ <tileset firstgid="40" source="locked_lock.tsx"/>
+ <layer id="1" name="Слой тайлов 1" width="26" height="21">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFo3gUj+JRPIpH8SgeAAwAJlsCIw==
+  </data>
+ </layer>
+ <layer id="2" name="Слой тайлов 2" width="26" height="21">
+  <data encoding="base64" compression="zlib">
+   eJy1VQtuwjAMtbqhTgwaGNpatstwFI7Wo/Ro2DSPvrlJCtqI9JQ2tfP870pEvhSrB/CI/F7xo9gpvhWNohY5dyIDY6vnup/qKAP5KHsymAzk+Ax6a+IzvUohmdXqN7ZP3/ucrNcz+z4iX0rvSM/VaEtR/q3Ag1jfYx90YowH5R5K8vq9V7neOJAb5jnm9YRjvx3PklzgQD6XcpPjxEr5BQ7OZy7WqXVQuXaUv/lhsWQucFiMgkz55Jix7S+KV8Um7gaudfiPWPp3jq/B5+ZZC7XDseBVUaxYJuXvhuD1eJaAr6PvPp/3+o5+w/08SxqHQHupP5e4Gvk963j+Wa1zn1C/nOMd/VKfikzzytdekHI/Ifb1iIFzkMoxfML9gL0fFuz8lGm2R19v9Z6Ka0uxEZnHJreqgsz7XPbqe+m+/1iYvb6Oc330V57UP9nya7PM+G3HM9vSkX1d4Rz9xzXg+4hrJCSeg8zryJ+t49kFC0BHfw==
+  </data>
+ </layer>
+ <layer id="3" name="Слой тайлов 3" width="26" height="21">
+  <data encoding="base64" compression="zlib">
+   eJyTZyANyNNI7UCAwe6+UUAaGA7xKQPEskAsh8YfqgDmfpifkP1DKL6GUnwOJbeOguEFaJX26JmmAbxJAnQ=
+  </data>
+ </layer>
+ <layer id="4" name="Слой тайлов 4" width="26" height="21">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwSgYGAAACIgAAQ==
+  </data>
+ </layer>
+ <layer id="5" name="Слой тайлов 5" width="26" height="21">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGBlAaaAeMAgwAAD4wACM=
+  </data>
+ </layer>
+ <layer id="6" name="Слой тайлов 6" width="26" height="21">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjGSgPNAOGAWjYBSMaAAAppQAJA==
+  </data>
+ </layer>
+ <layer id="7" name="Слой тайлов 7" width="26" height="21">
+  <data encoding="base64" compression="zlib">
+   eJxjYBg5QGWgHQAFKgy43YJPDlkNJXYRYwc5dmKzh1ZABY0mRu0oGAWjgHKgggWPglFACQAAaTgC9Q==
+  </data>
+ </layer>
+ <layer id="8" name="Слой тайлов 8" width="26" height="21">
+  <data encoding="base64" compression="zlib">
+   eJxjYBjeQBUJM6CxaWEHLe2BmYvLflrYQ6qfVNFoYuzBFXbYMKmAHDOpYQ8peki1hxhMqT247BtIgMtftEr7tLYHl70DHc74AC630bpMHSxpcBTQBgAAhbsLIg==
+  </data>
+ </layer>
+ <layer id="9" name="Слой тайлов 9" width="26" height="21">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFMKBGofwoGAWDCagx0CfNDmS+oJfdQ8EeNSx4FIyCoQAAw+kB7w==
+  </data>
+ </layer>
+ <layer id="10" name="Слой тайлов 10" width="26" height="21">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AU4APqA+0AMsBQdPMoGAX0AqP5Y3ABAM6TAHY=
+  </data>
+ </layer>
+ <layer id="11" name="Слой тайлов 11" width="26" height="21">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjFSgMdAOGAWjYBSMeAAAvcgAKQ==
+  </data>
+ </layer>
+</map>
